@@ -15,7 +15,7 @@ This repository contains all the quizzes/assignments for the specialization "Mat
 &nbsp;&nbsp;&nbsp;&nbsp;Week5 - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week6 - completed</br>
 ### Course-3: PCA - started</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Week1 - started</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Week2 - not yet started</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Week1 - complete</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Week2 - started</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week3 - not yet started</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week4 - not yet started</br>
