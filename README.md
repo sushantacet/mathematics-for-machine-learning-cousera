@@ -7,15 +7,15 @@ This repository contains all the quizzes/assignments for the specialization "Mat
 &nbsp;&nbsp;&nbsp;&nbsp;Week3 - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week4 - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week5 - completed</br>
-### Course-2: Multivariate Calculus - started</br>
+### Course-2: Multivariate Calculus - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week1 - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week2 - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week3 - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week4 - completed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week5 - completed</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Week6 - started</br>
-### Course-3: PCA - not yet started</br>
-&nbsp;&nbsp;&nbsp;&nbsp;Week1 - not yet started</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Week6 - completed</br>
+### Course-3: PCA - started</br>
+&nbsp;&nbsp;&nbsp;&nbsp;Week1 - started</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week2 - not yet started</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week3 - not yet started</br>
 &nbsp;&nbsp;&nbsp;&nbsp;Week4 - not yet started</br>
